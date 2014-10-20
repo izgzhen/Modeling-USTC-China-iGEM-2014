@@ -1,14 +1,16 @@
-This is the code repo of USTC-China iGEM Team's Modeling work.
+Modeling Work of 2014 USTC iGEM team
+====
+[The wiki address](http://2014.igem.org/Team:USTC-China/modeling)
 
-Mainly code, project file and related documentation.
+All source code is hosted here, as well as some uncompleted PDF or other files.
 
-## Description of files
+### Structure
+The files is organized by its contributor’s name, the copyright license will be same as [our site](http://2014.igem.org/Team:USTC-China).
 
-### SimbioProjects
-The .sbproj files which is the project file of Matlab Simbiology Package.
+1. Jiang Honda — Diffusion Model
+2. Tao Zui — Color Model
+3. Wang Siyu — Light Circuits, C. imager Modeling
+4. Xie Fangming — Conjugation Modeling
+5. Zhang Zhen — Motion Circuits, Colony Visualization
 
-### PDFs
-The PDF files we write to illustrate out project or share knowledge
 
-### Diagrams
-The diagram files we created in the same purpose as PDFs
